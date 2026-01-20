@@ -27,7 +27,7 @@ O objetivo foi praticar **estruturação semântica**, **estilização com CSS**
 
 ## 🌐 Acesse o site
 
-👉 [Clique aqui para visualizar o projeto](COLE_AQUI_O_LINK_DO_SITE)
+👉 [Clique aqui para visualizar o projeto](https://ellen-vieira.github.io/site-literario/)
 
 ---
 
